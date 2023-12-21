@@ -9,20 +9,6 @@ Plagiarism Checker is a simple tool built with Tkinter in Python that allows use
 - Set a similarity threshold to identify potential plagiarism.
 - Highlight similarities between the two texts for better visualization.
 
-## Getting Started
-
-### Prerequisites
-
-- Python (3.x recommended)
-- Tkinter library (usually comes with Python installation)
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Vijayvarma115/plagiarism-checker.git
-
 
 
 @Usage
